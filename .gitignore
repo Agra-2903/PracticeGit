@@ -1,0 +1,2 @@
+# Adding .class file in .gitignore
+*/.class
